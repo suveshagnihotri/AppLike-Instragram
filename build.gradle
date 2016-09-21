@@ -1,0 +1,22 @@
+buildscript {
+    repositories {
+        jcenter()
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.2.0'
+        classpath 'com.jakewharton.hugo:hugo-plugin:1.2.1'
+    }
+}
+
+allprojects {
+    repositories {
+        jcenter()
+        maven {
+            url "https://repo.commonsware.com.s3.amazonaws.com"
+        }
+        maven {
+            url "https://s3.amazonaws.com/repo.commonsware.com"
+        }
+    }
+}
