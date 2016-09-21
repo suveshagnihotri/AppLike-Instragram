@@ -19,7 +19,7 @@ import io.github.froger.instamaterial.R;
 import io.github.froger.instamaterial.ui.utils.RoundedTransformation;
 
 /**
- * Created by froger_mcs on 11.11.14.
+ * Created by Suvesh Kumar on 21.09.16.
  */
 public class CommentsAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
 

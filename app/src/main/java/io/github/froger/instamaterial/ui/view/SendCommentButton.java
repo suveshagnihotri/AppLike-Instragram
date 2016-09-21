@@ -9,7 +9,7 @@ import android.widget.ViewAnimator;
 import io.github.froger.instamaterial.R;
 
 /**
- * Created by froger_mcs on 01.12.14.
+ * Created by Suvesh Kumar on 21.09.16.
  */
 public class SendCommentButton extends ViewAnimator implements View.OnClickListener {
     public static final int STATE_SEND = 0;

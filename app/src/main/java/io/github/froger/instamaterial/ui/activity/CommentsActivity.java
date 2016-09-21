@@ -21,8 +21,9 @@ import io.github.froger.instamaterial.Utils;
 import io.github.froger.instamaterial.ui.adapter.CommentsAdapter;
 import io.github.froger.instamaterial.ui.view.SendCommentButton;
 
+import static com.android.mms.exif.ExifInterface.ComponentsConfiguration.R;
 /**
- * Created by froger_mcs on 11.11.14.
+ * Created by Suvesh Kumar on 21.09.16.
  */
 public class CommentsActivity extends BaseDrawerActivity implements SendCommentButton.OnSendClickListener {
     public static final String ARG_DRAWING_START_LOCATION = "arg_drawing_start_location";

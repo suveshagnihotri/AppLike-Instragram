@@ -22,7 +22,7 @@ import io.github.froger.instamaterial.ui.activity.MainActivity;
 import io.github.froger.instamaterial.ui.view.LoadingFeedItemView;
 
 /**
- * Created by froger_mcs on 05.11.14.
+ * Created by Suvesh Kumar on 21.09.16.
  */
 public class FeedAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
     public static final String ACTION_LIKE_BUTTON_CLICKED = "action_like_button_button";

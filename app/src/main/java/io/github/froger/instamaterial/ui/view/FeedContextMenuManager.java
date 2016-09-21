@@ -12,7 +12,7 @@ import android.view.animation.OvershootInterpolator;
 import io.github.froger.instamaterial.Utils;
 
 /**
- * Created by froger_mcs on 16.12.14.
+ * Created by Suvesh Kumar on 21.09.16.
  */
 public class FeedContextMenuManager extends RecyclerView.OnScrollListener implements View.OnAttachStateChangeListener {
 

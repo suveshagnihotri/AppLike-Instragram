@@ -20,7 +20,7 @@ import io.github.froger.instamaterial.R;
 import io.github.froger.instamaterial.Utils;
 
 /**
- * Created by Miroslaw Stanek on 02.12.2015.
+ * Created by Suvesh Kumar on 21.09.16.
  */
 public class FeedItemAnimator extends DefaultItemAnimator {
     private static final DecelerateInterpolator DECCELERATE_INTERPOLATOR = new DecelerateInterpolator();

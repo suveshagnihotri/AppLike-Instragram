@@ -18,8 +18,10 @@ import butterknife.OnClick;
 import io.github.froger.instamaterial.R;
 import io.github.froger.instamaterial.ui.utils.CircleTransformation;
 
+import static com.android.mms.exif.ExifInterface.ComponentsConfiguration.R;
+
 /**
- * Created by Miroslaw Stanek on 15.07.15.
+ * Created by Suvesh Kumar on 21.09.16.
  */
 public class BaseDrawerActivity extends BaseActivity {
 

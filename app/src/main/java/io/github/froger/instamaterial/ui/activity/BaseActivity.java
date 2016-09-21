@@ -12,7 +12,7 @@ import butterknife.Bind;
 import io.github.froger.instamaterial.R;
 
 /**
- * Created by Miroslaw Stanek on 19.01.15.
+ * Created by Suvesh Kumar on 21.09.16.
  */
 public class BaseActivity extends AppCompatActivity {
 

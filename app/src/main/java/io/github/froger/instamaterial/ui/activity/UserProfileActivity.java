@@ -22,7 +22,7 @@ import io.github.froger.instamaterial.ui.utils.CircleTransformation;
 import io.github.froger.instamaterial.ui.view.RevealBackgroundView;
 
 /**
- * Created by Miroslaw Stanek on 14.01.15.
+ * Created by Suvesh Kumar on 21.09.16.
  */
 public class UserProfileActivity extends BaseDrawerActivity implements RevealBackgroundView.OnStateChangeListener {
     public static final String ARG_REVEAL_START_LOCATION = "reveal_start_location";

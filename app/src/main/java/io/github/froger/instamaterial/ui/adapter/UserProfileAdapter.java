@@ -23,7 +23,7 @@ import io.github.froger.instamaterial.R;
 import io.github.froger.instamaterial.Utils;
 
 /**
- * Created by Miroslaw Stanek on 20.01.15.
+ * Created by Suvesh Kumar on 21.09.16.
  */
 public class UserProfileAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
 

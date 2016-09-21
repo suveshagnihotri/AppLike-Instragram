@@ -16,7 +16,7 @@ import butterknife.ButterKnife;
 import io.github.froger.instamaterial.R;
 
 /**
- * Created by Miroslaw Stanek on 09.12.2015.
+ * Created by Suvesh Kumar on 21.09.16.
  */
 public class LoadingFeedItemView extends FrameLayout {
 

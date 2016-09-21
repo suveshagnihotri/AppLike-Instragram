@@ -5,7 +5,7 @@ import android.app.Application;
 import timber.log.Timber;
 
 /**
- * Created by froger_mcs on 05.11.14.
+ * Created by Suvesh Kumar on 21.09.16.
  */
 public class InstaMaterialApplication extends Application {
     @Override

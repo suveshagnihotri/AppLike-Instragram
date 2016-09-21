@@ -10,7 +10,7 @@ import butterknife.ButterKnife;
 import io.github.froger.instamaterial.R;
 
 /**
- * Created by froger_mcs on 11.11.14.
+ * Created by Suvesh Kumar on 21.09.16.
  */
 public class PhotoFiltersAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
 

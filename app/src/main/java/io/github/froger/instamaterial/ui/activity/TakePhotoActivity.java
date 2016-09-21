@@ -43,7 +43,7 @@ import io.github.froger.instamaterial.ui.adapter.PhotoFiltersAdapter;
 import io.github.froger.instamaterial.ui.view.RevealBackgroundView;
 
 /**
- * Created by Miroslaw Stanek on 08.02.15.
+ * Created by Suvesh Kumar on 21.09.16.
  */
 public class TakePhotoActivity extends BaseActivity implements RevealBackgroundView.OnStateChangeListener,
         CameraHostProvider {

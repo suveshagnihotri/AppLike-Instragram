@@ -23,7 +23,7 @@ import android.view.animation.OvershootInterpolator;
 import io.github.froger.instamaterial.R;
 
 /**
- * Created by Miroslaw Stanek on 28.02.15.
+ * Created by Suvesh Kumar on 21.09.16.
  */
 public class SendingProgressView extends View {
     public static final int STATE_NOT_STARTED = 0;

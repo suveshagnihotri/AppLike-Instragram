@@ -11,7 +11,7 @@ import io.github.froger.instamaterial.R;
 import io.github.froger.instamaterial.Utils;
 
 /**
- * Created by froger_mcs on 15.12.14.
+ * Created by Suvesh Kumar on 21.09.16.
  */
 public class FeedContextMenu extends LinearLayout {
     private static final int CONTEXT_MENU_WIDTH = Utils.dpToPx(240);
